@@ -21,7 +21,7 @@ Table of Contents
 
 
 ## Expert_talks
-1. **LLVM之父Chris Lattner：编译器的黄金时代**. 2022.04.21. [Report](https://mp.weixin.qq.com/s/dRarW4iKtjBE5Ym_P0xUQw)
+1. **LLVM之父Chris Lattner：编译器的黄金时代**. 2022.04.21. [[Report]](https://mp.weixin.qq.com/s/dRarW4iKtjBE5Ym_P0xUQw)
 
 
 <!-- 2. **开源OCR文本检测器 (Text Detector for OCR)**. 2019. [[Tool]](https://github.com/qjadud1994/Text_Detector)
