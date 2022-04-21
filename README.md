@@ -27,12 +27,4 @@ Table of Contents
 <!-- 2. **开源OCR文本检测器 (Text Detector for OCR)**. 2019. [[Tool]](https://github.com/qjadud1994/Text_Detector)
  -->
 
-
-
-## Paper_with_code
-1. **Scene Text Recognition**, 71 papers with code. [[Papers]](https://paperswithcode.com/task/scene-text-recognition)
-
-
-
-
 <!-- [和AI结对编程！OpenAI与GitHub联手推出AI代码生成工具，比GPT-3更强大](https://mp.weixin.qq.com/s/6ZKdBPgv6pZ1aE4o0XRBig) -->
